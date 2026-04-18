@@ -11,8 +11,7 @@
 🚀 On a mission to create impactful digital solutions that make life easier.  
 
 - 🔭 Currently working on *MERN stack projects*
-- 🌱 Learning  **Kubernetes, and **Cloud Architecture*
-- 💬 Ask me about *Full Stack Development, **DevOps, and **System Design*
+- 💬 Ask me about *Full Stack Development, **DSA*
 - ⚡ Fun fact: I debug my dreams too 😴  
 
 ---
